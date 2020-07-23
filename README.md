@@ -1,5 +1,5 @@
 # kitties
-JSON file for kitty-world project
+JSON files for testing APIs
 
 To use any json file as API, just add <name of json file>.json to below url :- 
   
