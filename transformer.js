@@ -18,5 +18,3 @@ const convert = async () =>{
         console.log(e);
     }
 }
-
-convert();
