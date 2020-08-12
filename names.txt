@@ -1,0 +1,99 @@
+1	الْرَّحْمَـانُ	AR-RAHMAAN	The Most or Entirely Merciful
+2	الْرَّحِيْمُ	AR-RAHEEM	The Bestower of Mercy
+3	الْمَلِكُ	AL-MALIK	The King and Owner of Dominion
+4	الْقُدُّوسُ	AL-QUDDUS	The Absolutely Pure
+5	الْسَّلَامُ	AS-SALAM	The Perfection and Giver of Peace
+6	الْمُؤْمِنُ	AL-MU’MIN	The One Who gives Emaan and Security
+7	الْمُهَيْمِنُ	AL-MUHAYMIN	The Guardian, The Witness, The Overseer
+8	الْعَزِيزُ	AL-AZEEZ	The All Mighty
+9	الْجَبَّارُ	AL-JABBAR	The Compeller, The Restorer
+10	الْمُتَكَبِّرُ	AL-MUTAKABBIR	The Supreme, The Majestic
+11	الْخَالِقُ	AL-KHAALIQ	The Creator, The Maker
+12	الْبَارِئُ	AL-BAARI’	The Originator
+13	الْمُصَوِّرُ	AL-MUSAWWIR	The Fashioner
+14	الْغَفَّارُ	AL-GHAFFAR	The All- and Oft-Forgiving
+15	الْقَهَّارُ	AL-QAHHAR	The Subduer, The Ever-Dominating
+16	الْوَهَّابُ	AL-WAHHAAB	The Giver of Gifts
+17	الْرَّزَّاقُ	AR-RAZZAAQ	The Provider
+18	الْفَتَّاحُ	AL-FATTAAH	The Opener, The Judge
+19	الْعَلِيمُ	AL-‘ALEEM	The All-Knowing, The Omniscient
+20	الْقَابِضُ	AL-QAABID	The Withholder
+21	الْبَاسِطُ	AL-BAASIT	The Extender
+22	الْخَافِضُ	AL-KHAAFIDH	The Reducer, The Abaser
+23	الْرَّافِعُ	AR-RAAFI’	The Exalter, The Elevator
+24	الْمُعِزُّ	AL-MU’IZZ	The Honourer, The Bestower
+25	الْمُذِلُّ	AL-MUZIL	The Dishonourer, The Humiliator
+26	الْسَّمِيعُ	AS-SAMEE’	The All-Hearing
+27	الْبَصِيرُ	AL-BASEER	The All-Seeing
+28	الْحَكَمُ	AL-HAKAM	The Judge, The Giver of Justice
+29	الْعَدْلُ	AL-‘ADL	The Utterly Just
+30	الْلَّطِيفُ	AL-LATEEF	The Subtle One, The Most Gentle
+31	الْخَبِيرُ	AL-KHABEER	The Acquainted, the All-Aware
+32	الْحَلِيمُ	AL-HALEEM	The Most Forbearing
+33	الْعَظِيمُ	AL-‘ATHEEM	The Magnificent, The Supreme
+34	الْغَفُورُ	AL-GHAFOOR	The Forgiving, The Exceedingly Forgiving
+35	الْشَّكُورُ	ASH-SHAKOOR	The Most Appreciative
+36	الْعَلِيُّ	AL-‘ALEE	The Most High, The Exalted
+37	الْكَبِيرُ	AL-KABEER	The Greatest, The Most Grand
+38	الْحَفِيظُ	AL-HAFEEDH	The Preserver, The All-Heedful and All-Protecting
+39	الْمُقِيتُ	AL-MUQEET	The Sustainer
+40	الْحَسِيبُ	AL-HASEEB	The Reckoner, The Sufficient
+41	الْجَلِيلُ	AL-JALEEL	The Majestic
+42	الْكَرِيمُ	AL-KAREEM	The Most Generous, The Most Esteemed
+43	الْرَّقِيبُ	AR-RAQEEB	The Watchful
+44	الْمُجِيبُ	AL-MUJEEB	The Responsive One
+45	الْوَاسِعُ	AL-WAASI’	The All-Encompassing, the Boundless
+46	الْحَكِيمُ	AL-HAKEEM	The All-Wise
+47	الْوَدُودُ	AL-WADOOD	The Most Loving
+48	الْمَجِيدُ	AL-MAJEED	The Glorious, The Most Honorable
+49	الْبَاعِثُ	AL-BA’ITH	The Resurrector, The Raiser of the Dead
+50	الْشَّهِيدُ	ASH-SHAHEED	The All- and Ever Witnessing
+51	الْحَقُّ	AL-HAQQ	The Absolute Truth
+52	الْوَكِيلُ	AL-WAKEEL	The Trustee, The Disposer of Affairs
+53	الْقَوِيُّ	AL-QAWIYY	The All-Strong
+54	الْمَتِينُ	AL-MATEEN	The Firm, The Steadfast
+55	الْوَلِيُّ	AL-WALIYY	The Protecting Associate
+56	الْحَمِيدُ	AL-HAMEED	The Praiseworthy
+57	الْمُحْصِيُ	AL-MUHSEE	The All-Enumerating, The Counter
+58	الْمُبْدِئُ	AL-MUBDI	The Originator, The Initiator
+59	الْمُعِيدُ	AL-MU’ID	The Restorer, The Reinstater
+60	الْمُحْيِى	AL-MUHYEE	The Giver of Life
+61	الْمُمِيتُ	AL-MUMEET	The Bringer of Death, the Destroyer
+62	الْحَىُّ	AL-HAYY	The Ever-Living
+63	الْقَيُّومُ	AL-QAYYOOM	The Sustainer, The Self-Subsisting
+64	الْوَاجِدُ	AL-WAAJID	The Perceiver
+65	الْمَاجِدُ	AL-MAAJID	The Illustrious, the Magnificent
+66	الْوَاحِدُ	AL-WAAHID	The One
+67	الْأَحَد	AL-AHAD	The Unique, The Only One
+68	الْصَّمَدُ	AS-SAMAD	The Eternal, Satisfier of Needs
+69	الْقَادِرُ	AL-QADEER	The Capable, The Powerful
+70	الْمُقْتَدِرُ	AL-MUQTADIR	The Omnipotent
+71	الْمُقَدِّمُ	AL-MUQADDIM	The Expediter, The Promoter
+72	الْمُؤَخِّرُ	AL-MU’AKHKHIR	The Delayer, the Retarder
+73	الأَوَّلُ	AL-AWWAL	The First
+74	الْآخِرُ	AL-AAKHIR	The Last
+75	الْظَّاهِرُ	AZ-DHAAHIR	The Manifest
+76	الْبَاطِنُ	AL-BAATIN	The Hidden One, Knower of the Hidden
+77	الْوَالِي	AL-WAALI	The Governor, The Patron
+78	الْمُتَعَالِي	AL-MUTA’ALI	The Self Exalted
+79	الْبَرُّ	AL-BARR	The Source of Goodness, the Kind Benefactor
+80	الْتَّوَّابُ	AT-TAWWAB	The Ever-Pardoning, The Relenting
+81	الْمُنْتَقِمُ	AL-MUNTAQIM	The Avenger
+82	الْعَفُوُّ	AL-‘AFUWW	The Pardoner
+83	الْرَّؤُفُ	AR-RA’OOF	The Most Kind
+84	مَالِكُ الْمُلْكُ	MAALIK-UL-MULK	Master of the Kingdom, Owner of the Dominion
+85	ذُو الْجَلَالِ وَالْإِكْرَامُ	DHUL-JALAALI WAL-IKRAAM	Possessor of Glory and Honour, Lord of Majesty and Generosity
+86	الْمُقْسِطُ	AL-MUQSIT	The Equitable, the Requiter
+87	الْجَامِعُ	AL-JAAMI’	The Gatherer, the Uniter
+88	الْغَنيُّ	AL-GHANIYY	The Self-Sufficient, The Wealthy
+89	الْمُغْنِيُّ	AL-MUGHNI	The Enricher
+90	الْمَانِعُ	AL-MANI’	The Withholder
+91	الْضَّارُ	AD-DHARR	The Distresser
+92	الْنَّافِعُ	AN-NAFI’	The Propitious, the Benefactor
+93	الْنُّورُ	AN-NUR	The Light, The Illuminator
+94	الْهَادِي	AL-HAADI	The Guide
+95	الْبَدِيعُ	AL-BADEE’	The Incomparable Originator
+96	الْبَاقِي	AL-BAAQI	The Ever-Surviving, The Everlasting
+97	الْوَارِثُ	AL-WAARITH	The Inheritor, The Heir
+98	الْرَّشِيدُ	AR-RASHEED	The Guide, Infallible Teacher
+99	الْصَّبُورُ	AS-SABOOR	The Forbearing, The Patient
